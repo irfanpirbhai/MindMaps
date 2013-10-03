@@ -1,0 +1,947 @@
+﻿Sobeys
+
+Sobeys iOS
+
+Download App
+
+Open App
+
+Skip Registration
+
+(Store Locator screen)
+
+(Spinner: Loading Stores)
+
+Find My Local Store
+
+(DB: Use Current Location)
+
+OK
+
+Select Store on Map
+
+(Downloading Flyer)
+
+(Redirect to Home screen)
+
+(Featured Product)
+
+Add "Featured Product"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+Click on "Featured Product"
+
+(Info screen)
+
+Add "Featured Product"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+Remove "Featured Product" (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+"Get Cooking" tab
+
+(Recipes)
+
+Heart "Recipe"
+
+(if signed in)
+
+(heart icon toggles to red "selected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Remove "Hearted Recipe" (if signed in, and selected)
+
+(heart icon toggles to white "unselected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Click on "Recipe"
+
+(Recipe Info screen)
+
+Heart "Recipe"
+
+(if signed in)
+
+(heart icon toggles to red "selected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Remove "Hearted Recipe" (if signed in, and selected)
+
+(heart icon toggles to white "unselected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+"Ingredients" tab
+
+Click on "Ingredient"
+
+Add All
+
+(if signed in)
+
+(ALL check mark icons on page toggle to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+Remove All  (if signed in, and selected)
+
+(ALL check mark icons toggle to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+"Directions" tab
+
+(Directions)
+
+"Nutrition" tab
+
+(Nutrition info)
+
+←
+
+Open "MySobeys List"
+
+←
+
+"Discover More" tab
+
+(Products)
+
+Add Product
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on Product
+
+(Product Info screen)
+
+Add Product
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Toggle "Read More" text
+
+←
+
+Open "MySobeys List"
+
+←
+
+←
+
+Open "MySobeys List"
+
+Open "MySobeys List"
+
+(Featured Recipe)
+
+Heart "Featured Recipe"
+
+(if signed in)
+
+(heart icon toggles to red "selected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Click on "Featured Recipe"
+
+(Recipe Info screen)
+
+Remove "Hearted Recipe" (if signed in, and selected)
+
+(heart icon toggles to white "unselected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+View Flyer
+
+(My Flyer screen)
+
+(Fresh Picks)
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+"My Offers"
+
+(My Offers screen)
+
+Open "MySobeys List"
+
+(if signed in)
+
+Edit
+
+("-" icons next to Product items)
+
+Click on "-" icon
+
+Delete Confimration
+
+Delete Item
+
+(change should be reflected in MySobeys list counter)
+
+Item removed from list
+
+Done
+
++
+
+(show list in categories)
+
+"Add New Product" search box
+
+Type a letter and search results should display
+
+Add Item
+
+Search screen exits and item is added to list
+
+Should there be duplicates added?
+
+
+Close MySobeys list, and the "checkmark" icon beside this product should be toggled "selected"
+
+Click on "checkmark" icon"
+
+Item is "completed" and checkmark icon toggles green
+
+Navigate off of the List screen and back onto it, and the "completed" items should now be in a "completed" section.
+
+Close MySobeys list, and the "checkmark" icon beside this recipe should be toggled "unselected"
+
+Clear Completed items 
+
+App should NOT crash :)
+
+Heart icon
+
+(show list of recipes)
+
+"Add New Recipe search box
+
+Type a letter and search results should display
+
+Add Recipe
+
+Search screen exits and item is added to list
+
+Should there be duplicates added?
+
+
+Click on "heart" icon"
+
+Recipe removed from list
+
+Close MySobeys list, and the "heart" icon beside this  recipe should be toggled "unselected"
+
+X
+
+Sidebar Navigation
+
+Home
+
+Accounts
+
+Club Sobeys Card Number
+
+(if not signed in)
+
+(My Offers screen)
+
+Log in
+
+(Club Sobeys Log In screen)
+
+Input: Email Address/Password
+
+Next
+
+(if valid)
+
+(redirect to Accounts screen, with "Club Sobeys Card Number" filled in, and "My Store" changed)
+
+Forgot Your Password?
+
+Input: Email Address
+
+Submit
+
+←
+
+←
+
+Create Account
+
+(Link Club Sobeys Card screen)
+
+Scan Card
+
+(Scan card screen)
+
+Scan Card
+
+Enter Card Manually
+
+(Enter Details screen)
+
+Input: Last Name/Postal Code/Club Sobeys Card Number)
+
+Next
+
+←
+
+Enter Card Manually
+
+(Enter Details screen)
+
+←
+
+Join Club Sobeys Today
+
+(Sign Up screen)
+
+Done
+
+(redirect to Accounts screen)
+
+←
+
+X
+
+(if signed in)
+
+(Club Sobeys Member Info screen)
+
+(Card Number / First Name / Points Balance)
+
+Logout
+
+(redirect to Accounts screen with Club Sobeys Card Number: Not Added)
+
+My Sobeys: Sign in...
+
+My Store: Sobeys - Queens Quay
+
+(Store Locator screen)
+
+Manually Download Content
+
+(Spinner: Downloading Content)
+
+Store Locator
+
+(Store Locator screen)
+
+Select Store on Map
+
+(Spinner: Updating flyer)
+
+Get Cooking
+
+(Get Cooking screen)
+
+Heart Recipe
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+(if signed in)
+
+(heart icon toggles to red "selected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Search Recipes
+
+(Search Recipes screen)
+
+By search term
+
+Filter Search Results
+
+(Filter Recipes screen)
+
+Recipe
+
+(Filter Detail screen)
+
+Select multiple items
+
+←
+
+Dietary
+
+(Filter Detail screen)
+
+Select multiple items
+
+Cuisine
+
+(Filter Detail screen)
+
+Select multiple items
+
+Occasion
+
+(Filter Detail screen)
+
+Select multiple items
+
+Done
+
+(Search Recipes screen)
+
+Reset
+
+Heart Recipe
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+(if signed in)
+
+(heart icon toggles to red "selected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Scroll 
+
+Remove "Hearted Recipe" (if signed in, and selected)
+
+(heart icon toggles to white "unselected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Click on "Recipe"
+
+(Recipe Info screen)
+
+←
+
+Scroll 
+
+Remove "Hearted Recipe" (if signed in, and selected)
+
+(heart icon toggles to white "unselected' state
+
+(change should be reflected in "MySobeys list" > "heart tab")
+
+Click on "Recipe"
+
+(Recipe Info screen)
+
+My Flyer
+
+(My Flyer screen)
+
+Search Flyer
+
+(Search Flyer screen)
+
+By category
+
+Add Product
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+By search term
+
+Add Product
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+←
+
+Scroll
+
+Add Product
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+My Offers
+
+(My Offers screen)
+
+(if not signed in to ClubSobeys Online)
+
+Sign up or Login
+
+(My Offers screen)
+
+(if signed in to ClubSobeys Online)
+
+(My offers screen)
+
+(No offers available)
+
+←
+
+Grocery Items
+
+Cheese
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Deli
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Our Kitchen
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Grocery
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Jamie Oliver
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Our Private Brands
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Seafood
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Produce
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Natural Source
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Bakery
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Meat
+
+Add "Fresh Picks"
+
+(if signed in)
+
+(check mark toggles to green "selected" state)
+
+(MySobeys list counter increases instantly)
+
+(if not signed in)
+
+(DB: Please Sign In)
+
+Remove Product (if signed in, and selected)
+
+(check mark toggles to "+" state)
+
+(MySobeys list counter decreases instantly)
+
+Click on "Fresh Picks"
+
+(Product Info screen)
+
+Don't Allow
+
+DB: Use Current Location is not asked again, even if navigating back to "Open App" screen and back to "Skip Registration"
+
+
+Back
+
+Pull up Store Info panel
+
+Blank manager/phone info
+
+Default Hours: 8am-5pm
+
+Select a store
+
+(Downloading Flyer)
+
+Sign Up
+
+(Sign Up screen)
+
+Input: First Name, Last Name, Email Address, Password, Confirm Password
+
+Done
+
+(if valid)
+
+There is no confirmation of a valid email address. E.g., I put in a@a.c and it worked. Not a valid email address. Should there be some extra validations around that?
+
+
+(Redirect to Home Screen)
+
+(if invalid)
+
+(5 second message: Password and confirmation don't match. Please double check that both fields match.)
+
+(5 second message: Email is invalid. Please enter a valid email address.)
+
+Current Store
+
+(Store Locator screen)
+
+Select Store on Map
+
+(Redirect to Sign Up screen)
+
+←
+
+←
+
+Terms of Service & Privacy Policy
+
+(Terms of Service Text)
+
+Log-In
+
+(Log In Screen)
+
+Input: Email/Password
+
+Done
+
+(if invalid)
+
+(5 second message: Invalid email/password combination)
+
+(if valid)
+
+(Redirect to Home Screen)
+
+Forgot Your Password?
+
+(Reset Password Screen)
+
+Input: Email Address
+
+Send
+
+(if invalid)
+
+(DB: "Error Occurred. Cannot find an account with this email address.")
+
+(if valid)
+
+(DB: Reset Password: An email has been sent to reset your password.")
+
+OK
+
+(Log In Screen)
+
+(Email sent)
+
+←
+
+Don't have a MySobeys Account?
+
+(Sign Up Screen)
+
+X
+
+(redirect to Home screen)

@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+Do not include recipes sync
+iOS7, iOS6, offline
+
+3G, 4, 5
+
+Download App
+
+MySobeys account flows
+	Signing up for an account that already exists
+	Invalid email addy
+	Different Log in scenarios
+
+Syncing flows
+	Add a featured product
+	Remove a featured product
+	Heart a recipe
+	Unheart a recipe
+	Add all products
+	Remove all products
+
+MySobeys list
+	
+
+Store locator > Setting store
+
+Getting directions
+
+Searching in Get Cooking
+	Does filtering work
+	Does filter reset work
+
+My Flyer
+	Searching  filtering flyer by department
+	text search
+	expiry time on flyer should be correct
+	Flyer item on phone looks same as it does on web (prices and savings)
+	Adding/removing flyer items
+	Deparment views (hero products adding/removing)
+	Labels, expiries working
+	Club sobeys tags should be only on items that are flagged as club sobeys items; they match on the website
+
+As a user I want to see an alert when I try to add an item to my shopping list/favourite a recipe when not logged in.
+As a user I want to navigate to the store locator from the hamburger menu
+As a user I want to be able to view the Terms of Service for the app
+As a user I want to view a recipe from the home screen
+As a user I want to view a product detail screen from the home screen
+As a user I want to add products from the Home screen to my shopping list
+As a user I want to see strikethrough text for completed Shopping List Items.
+As a user I want to see a 'Sign into My Sobeys to Sync' screen when navigating to the shopping list feature and the user isn't logged in
+As a user I want to see my checked items remain in the associated department section after checking them off but when I navigate away from the screen they should populate a 'checked' section (
+As a user I want to see the related cooking tab hidden if there isn't any related cooking items for a product
+As a user I want to see a map view at the top of the home screen with my selected store in the middle
+As a user I want to rebuild the home screen with the featured product, recipe, and list of hero products
+As a user I want to see a flyer collection view cell
+As a user I want to see a a search control at the top of the Flyer screen
+As a user I want to filter Flyer results by departments and other TBD categories
+As a user I want to see a collection view on the flyer screen containing flyer products
+As a user I want to see a filter list (similar to Foursquare) when I select the search control for my recipes
+As a user I want to see an offer detail page with expanded information about the offer and the ability to add the offer to my card
+As a user I want to select a search filter / category from a list to add to constrain my search term
+As a user I want to see a list of selected filters / categories
+As a user I want to see a segmented control containing My Offers and Offers loaded on Card
+As a user I want to see a sign up and login button from the intro screen
+As a user I want to see a skip button on the intro screen
+As a user I want to see a rich image, title, brief description, price and option to add to shopping list at the top of the product page
+As a user I want to see a table view containing either My Offers not loaded to my card or offers loaded to my card
+As a user I want to be able to reset my password via a Forgot your Password? link from the MySobeys login page
+As a user I want to a segmented control with 3 sections: Details, Inspiration and Bundles
+As a user I want to see a MySobeys account detail screen with my email, password, and a switch to toggle email notifications
+As a user I want to see a list of details containing related items and expandable description
+As a user I want to see a ClubSobeys account detail screen with my card info, last name, postal code, earned points and loaded offers
+As a user I want to see a hero product collection view cell
+As a user I want to be able to see my shopping list from the product detail page
+As a user I want to see a catch phrase collection view cell displayed at the top of the department screen
+As a user I want to see a collection view layout for catch phrase text, hero products, and flyer items
+As a user I want to add any of the products in a department to my shopping list
+As a user I want to swipe an entire section's list view and navigate to the next section
+As a user I want to see hero products at the top of the department view
+As a user I want to view a product screen (type depending on which product I select) by selecting a product
+As a user I want to stub out a list of Ingredients on the ingredients tab in the recipe detail view. Each ingredient should be its own row, with the option to add each one to my shopping list. I 
+As a user I want to see the recipe description above the segmented control in the recipe detail view. It should open/close by tapping on it, while handling variable text length.
+As a user I want to access my shopping list from a button on the right hand side of the navigation bar
+As a user I want to see a segmented control with 'Shopping List' and 'My Recipes' in the navigation bar
+As a user I want to enter edit mode for the visible list (either shopping list or my recipes) by tapping the left bar button
+As a user I want to delete items from my shopping list while in edit mode
+As a user I want to view a search control at the top of my list to search for products or add manual entries
+As a user I want to match a manual text entry against a list of precompiled list of product - department mappings to determine which section to place this item in
+As a user I want to see a list of search results from the flyer as well as an option to add the text manually when searching in the shopping list
+As a user I want to see a miscellaneous section for manual items which don't have an associated department
+As a user I want to view a list of items in my shopping list ordered by sections for departments
+As a user I want to see pins where stores are on the map view
+As a user I want to see a search control at the the top of 'My Recipes'
+As a user I want to see my current location on the map and have the map centered on my location
+As a user I want to launch the Maps app to find directions from my current location to my selected store
+As a user I want to view a list of my saved recipes under 'My Recipes'
+As a user I want to see a search results list matching my search term for my recipes
+As a user I want to see a store overlay when I tap on a store location pin
+As a user I want to navigate to a store detail page when selecting the detail disclosure from the store overlay
+As a user I want to view a store detail page containing information about the store including store hours and contact info
+As a user I want to see a search control at the top of screen for globally searching recipes
+As a user I want to see a list of recipes with a featured recipe at the top and non-featured recipes below
+As a user I want to see a search results list populated by my search term when searching all recipes
+As a user I want to add a recipe to My Recipes from the What to Cook list
+As a user I want to stub out a rich image, title, and basic info featured at the top of the recipe detail page
+As a user I want to see a segmented control with 2 options: Viewing details and viewing recipe directions
+As a user I want to see a description of the recipe which can be expanded via a 'more' button, including resizing any parent views/scrollviews/etc.
+As a user I want to stub out an ingredients list for a recipe.
+As a user I want to stub out a list of directions for a recipe with each step containing an image and text description
+As a user I want to view my shopping list from the recipe detail page
